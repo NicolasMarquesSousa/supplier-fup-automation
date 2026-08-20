@@ -1,3 +1,5 @@
+![Capa Automação de FUP por Fornecedor](social-preview.jpg)
+
 # Automação de FUP por fornecedor e unidade
 
 Projeto de portfólio em Python que segmenta uma base de pendências por fornecedor e unidade, gera uma planilha individual e prepara uma mensagem no Microsoft Outlook com o relatório correto anexado.
